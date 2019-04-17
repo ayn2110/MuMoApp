@@ -17,13 +17,13 @@
         <key>metadata</key>
         <dict>
             <key>bundle-identifier</key>
-            <string>***** app bundle identifier *****</string>
+            <string>fdsklfjldsfjlds</string>
             <key>bundle-version</key>
-            <string>0.0.0</string>
+            <string>0.0.1</string>
             <key>kind</key>
             <string>software</string>
             <key>title</key>
-            <string>Mumo</string>
+            <string>Mumo_v1</string>
         </dict>
     </dict>
 </array>
