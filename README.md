@@ -5,7 +5,8 @@ You can use the [editor on GitHub](https://github.com/ayn2110/test-i/edit/master
 [phone-install](itms-services://?action=download-manifest&url=https://ayn2110.github.io/test-i/manifest.plist)
 
 [ipad-install](itms-services://?action=download-manifest&url=https://ayn2110.github.io/test-i/manifest2.plist)
-[new-install](itms-services://?action=download-manifest&url=https://ayn2110.github.io/test-i/manifest3.plist)
+
+[201904171143-install](itms-services://?action=download-manifest&url=https://ayn2110.github.io/test-i/manifest3.plist)
 
 ### Markdown
 
