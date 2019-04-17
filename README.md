@@ -3,6 +3,8 @@
 You can use the [editor on GitHub](https://github.com/ayn2110/test-i/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 [Download](https://github.com/ayn2110/test-i/edit/master/install.html)
+[install](itms-services://?action=download-manifest&url=https://ayn2110.github.io/test-i/manifest.plist)
+
 
 ### Markdown
 
