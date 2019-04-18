@@ -3,6 +3,8 @@
 You can use the [editor on GitHub](https://github.com/ayn2110/test-i/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 
+[2019-0418-2249-sound-install](itms-services://?action=download-manifest&url=https://ayn2110.github.io/test-i/manifest3.plist)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
